@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/q1KeHJ' target='_blank'><img src='https://1.bp.blogspot.com/-W10Ya6Sbimg/WUY6aVTeZlI/AAAAAAAABdc/2HIPCBQQ9nEbqz7bwhFUN2I8XUWj1tuNwCLcBGAs/s1600/thong-diep-can-ho-luy-ban-bich.jpg' width='500px'/><br/>13 Căn hộ Lũy Bán Bích</a>. Liên hệ phòng kinh doanh chủ đầu tư 0938 418 503. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://4.bp.blogspot.com/-sP4ZAGTYe74/WUZFZz0ZdoI/AAAAAAAABd4/pNIxCWd9xGQeakdhTQSJ7ArpB9UXlkrhwCLcBGAs/s1600/Moonlight_Residences.jpg' target='_blank'><img src='https://1.bp.blogspot.com/-W10Ya6Sbimg/WUY6aVTeZlI/AAAAAAAABdc/2HIPCBQQ9nEbqz7bwhFUN2I8XUWj1tuNwCLcBGAs/s1600/thong-diep-can-ho-luy-ban-bich.jpg' width='500px'/><br/>13 Căn hộ Lũy Bán Bích</a>. Liên hệ phòng kinh doanh chủ đầu tư 0938 418 503. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
